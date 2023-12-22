@@ -15,8 +15,7 @@ Contributors:
 - Rao, Angelina
 - Shkabari, Serena
 - Yeleswarapu, Ravi @ravyeles
-
-### H3 heading: A title for the FinTech case study report
+  heading: A title for the FinTech case study report
 
 
 Case study content: Content for the case study
