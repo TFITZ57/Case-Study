@@ -1,4 +1,4 @@
-# Heading: Affinity Intelligent Relationship and Deal Management Platform
+Affinity Intelligent Relationship and Deal Management Platform
 ![This is what you should feel like]([https://cc-prod.scene7.com/is/image/CCProdAuthor/What-is-Stock-Photography_P1_mobile?$pjpeg$&jpegSize=200&wid=720](https://assets-global.website-files.com/6372644369a530caa8c39dfc/6375427ad0fd91028b655a3b_Affinity%20Logo%20Colour.svg))
 
 # Description: Affinity is using cutting-edge AI to make deal closing more efficient.
